@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cost.com.costbook.MainActivity">
+    <item
+        android:id="@+id/action_chart"
+        android:orderInCategory="100"
+        android:title="Charts"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/clean"
+        android:title="clean"
+        android:orderInCategory="100"/>
+</menu>
